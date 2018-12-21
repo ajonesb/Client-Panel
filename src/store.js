@@ -9,12 +9,12 @@ import 'firebase/firestore'
 
 // initialize firebase instance with config from console
 const firebaseConfig = {
-    apiKey: "AIzaSyDQU4AHbvZY0F6kAR3wcg__wg5LLlNpC8I",
-    authDomain: "react-login-app-6c115.firebaseapp.com",
-    databaseURL: "https://react-login-app-6c115.firebaseio.com",
-    projectId: "react-login-app-6c115",
-    storageBucket: "react-login-app-6c115.appspot.com",
-    messagingSenderId: "910430581566"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
 }
 
 // react-redux-firebase config
